@@ -1,2 +1,9 @@
 # Python virtual environments
 .venv/
+
+# Jupyter and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+
+# macOS
+.DS_Store
