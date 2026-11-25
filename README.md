@@ -35,10 +35,6 @@ These steps were tested with Python 3.11.
    pip install -r requirements.txt
    ```
 
-3. Open the notebook with Jupyter (or open `data_workflow.ipynb` in VS Code and select the `.venv` kernel):
+3. Open `data_workflow.ipynb` in VS Code (with the Python and Jupyter extensions) and select the `.venv` kernel. To use the browser instead, run `pip install notebook` and then `jupyter notebook data_workflow.ipynb`.
 
-   ```bash
-   jupyter notebook data_workflow.ipynb
-   ```
-
-4. Run all cells from top to bottom. The notebook reads `AB_NYC_2019.csv` from the project folder, so start Jupyter from that folder.
+4. Run all cells from top to bottom. The notebook reads `AB_NYC_2019.csv` from the project folder, so open the project folder as your working directory.
