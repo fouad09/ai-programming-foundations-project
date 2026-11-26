@@ -11,6 +11,7 @@ This project explores the 2019 New York City Airbnb listings dataset using Pytho
 - Three Matplotlib and Seaborn visualizations with titles and labeled axes
 - `module_summary.pdf`: the written report with citations
 - `requirements.txt`: the pinned package versions created with `pip freeze`
+- [GitHub Repo](https://github.com/fouad09/ai-programming-foundations-project)
 
 ## Dataset
 
